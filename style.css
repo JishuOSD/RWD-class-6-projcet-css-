@@ -1,0 +1,31 @@
+.scention{
+    background-color: #ccc;
+    width: 250px;
+    padding: 10px;
+    box-shadow: 10px 10px 30px #ccc;
+}
+
+.scention img{
+    width: 100%;
+}
+
+.scention .top-price{
+    background-color: #6E2594;
+    color: #fff;
+    padding: 5px 10px;
+    display: inline-block;
+    border-top-right-radius:15px ;
+    border-bottom-right-radius: 15px;
+
+}
+.del{
+    text-decoration: line-through;
+}
+
+.contains ul{
+    margin-bottom: 10px;
+}
+
+.contains li{
+    margin-bottom: 10px;
+}
